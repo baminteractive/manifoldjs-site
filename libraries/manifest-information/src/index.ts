@@ -599,7 +599,7 @@ export const manifest_fields: { [field: string]: infoPanel } = {
   },
   "share_target.extra-step": {
     description: [
-      `When a user selects your app in the system's share dialog, your PWA is launched, and a HTTP request is made to the provided URL. You will need to add this scriot to your SW.`,
+      `When a user selects your app in the system's share dialog, your PWA is launched, and a HTTP request is made to the provided URL. You will need to add this script to your SW.`,
     ],
     purpose: null,
     example: null,
